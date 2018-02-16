@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MarioKart.Boot.NET/bin
+/packages/CNTK.GPU.2.3.1
+/.vs/MarioKart.Boot.NET/v15/Server/sqlite3
+/MarioKart.Boot.NET/obj
+/.vs/MarioKart.Boot.NET/v15
+/packages
+/.vs/LSTMBotGame/v15
+/LSTMBootGame/bin/x64/Debug
+/LSTMBootGame/obj
+/LSTMBootGame/bin/Debug
+/training/training_data_1 - Copy.txt
+/training/mario_kart_modelv1
